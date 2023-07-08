@@ -2,7 +2,7 @@
 Project Title: GitHub Course Final Assignment (Coursera)
 
 Description
-[Insert a brief description of your project. Explain what it does and why it is useful.]
+Assignment Coursera GitHub
 
 Table of Contents
 Installation
